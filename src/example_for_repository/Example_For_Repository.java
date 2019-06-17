@@ -23,6 +23,8 @@ public class Example_For_Repository {
         y = sc.nextInt();
         int div = x / y;
         System.out.println("Sum is " + div);
+        //further advancements
+        System.out.println("this is the end !" );
 
     }
 
