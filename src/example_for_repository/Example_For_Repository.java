@@ -25,6 +25,8 @@ public class Example_For_Repository {
         System.out.println("Sum is " + div);
         //further advancements
         System.out.println("this is the end !" );
+        //in another branch
+        System.out.println("May you have a wonderful day !" );
 
     }
 
